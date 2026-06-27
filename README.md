@@ -43,3 +43,8 @@ imagen de los contenedores:
 <img width="1917" height="200" alt="image" src="https://github.com/user-attachments/assets/286023c6-3106-4fce-8918-8c9f2439b142" />
 
 imagen de el env modificado:
+
+Dashboard Modificado
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/fe6041b1-8b5d-42b6-aec9-20182e353f31" />
+
